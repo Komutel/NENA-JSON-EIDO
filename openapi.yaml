@@ -67,7 +67,7 @@ components:
             A globally unique identifier of the agent or automaton that updated
             the data component last
       description: A common prologue on each data component
-  AgencyType:
+  agencyType:
       title: Agency Type
       description:
         A data type for an organization that owns or is otherwise related to an
